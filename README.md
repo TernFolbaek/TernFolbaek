@@ -1,6 +1,4 @@
-# Terns's Portfolio! :wave:
-
-![banner](banner.png)
+# Terns's Portfolio :wave:
 
 Hi there, my name is Tern Folbaek: and I'm a student with a deep passion for **computer science** and **sciences** in general. I'm intrigued by the interplay of math and computer science and how they empower us to simulate scenarios that are otherwise difficult to visualize.
 

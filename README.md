@@ -1,13 +1,13 @@
-# Terns's Portfolio :wave:
+# Terns's Portfolio 
 
 Hi there, my name is Tern Folbaek: and I'm a student with a deep passion for **computer science** and **sciences** in general. I'm intrigued by the interplay of math and computer science and how they empower us to simulate scenarios that are otherwise difficult to visualize.
 
-## :mag_right: About Me
+## About Me
 
 I'm enthusiastic about applying my technical knowledge to create solutions that have a real impact (My projects dont necessarily reflect that but give me time 😂). I have experience in software engineering and AI, but my primary interest lies in the field of computer science as a whole.
 Here, you'll find a collection of my projects and experiments that showcase my skills and interests in various areas of computer science.
 
-## :hammer_and_wrench: Skills
+## Skills
 
 - **Languages**: Python, JavaScript, C++, HTML, Java
 - **Frameworks & Libraries**: React, Flask, TensorFlow, Scikit-learn
@@ -15,7 +15,7 @@ Here, you'll find a collection of my projects and experiments that showcase my s
 - **Databases**: MySQL, MongoDB, Firebase
 - **Miscellaneous**: CSS, JEST, 
 
-## :rocket: Featured Projects
+## Featured Projects
 
 ### Web Apps
 
@@ -32,7 +32,7 @@ Here, you'll find a collection of my projects and experiments that showcase my s
 - **[Linked List](link-to-cs-project-1)**: Code which allows the user to create a linked list, and allowing them to modify it with inbuilt-functions.
 
 
-## :speech_balloon: Let's Connect!
+## Links
 
 I'm always happy to discuss new opportunities, collaborate on projects, or just chat about computer science and sciences in general. You can find me on [LinkedIn](https://www.linkedin.com/in/tern-folbaek-93a7b8224/), or shoot me an [email](mailto:tflolbaek@gmail.com).
 

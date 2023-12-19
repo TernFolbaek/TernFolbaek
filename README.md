@@ -34,6 +34,6 @@ Here, you'll find a collection of my projects and experiments that showcase my s
 
 ## Links
 
-I'm always happy to discuss new opportunities, collaborate on projects, or just chat about computer science and sciences in general. You can find me on [LinkedIn](https://www.linkedin.com/in/tern-folbaek-93a7b8224/), or shoot me an [email](mailto:tflolbaek@gmail.com).
+I'm always happy to discuss new opportunities, collaborate on projects, or just chat about computer science and sciences in general. You can find me on [LinkedIn](https://www.linkedin.com/in/tern-folbaek-93a7b8224/), or shoot me an [email](mailto:tfolbaek@gmail.com).
 
 

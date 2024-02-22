@@ -15,21 +15,6 @@ Here, you'll find a collection of my projects and experiments that showcase my s
 - **Databases**: MySQL, MongoDB, Firebase
 - **Miscellaneous**: CSS, JEST, 
 
-## Featured Projects
-
-### Web Apps
-
-- **[Keymaster](https://github.com/TernFolbaek/keymaster-frontend)**: An app to test your typing speed, where if logged-in, it will keep track of your highscore and you can then compare your score with fellow users under leadboard page.
-- **[Blog](https://github.com/TernFolbaek/blog-frontend)**: A platform where users can sign in, post whatever is in their minds and follow along with what others post, allowing them to post comments on others blogs as well. 
-
-### AI Projects
-
-- **[angry chatbot]([link-to-ai-project-1](https://github.com/TernFolbaek/angry-chatbot))**: A chatbot which was trained upon a resentful data-set, subsequently making it reply in a negative tone.
-- **[salary prediction](https://github.com/TernFolbaek/salary-prediction-ml)**: An app that predicts the salaries of various data-scientists positions, and software developers given certain input such as YOE, residency, job-rank.
-
-### Computer Science Projects
-
-- **[Linked List](https://github.com/TernFolbaek/linked-list)**: Code which allows the user to create a linked list, and allowing them to modify it with inbuilt-functions.
 
 
 ## Links

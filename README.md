@@ -1,4 +1,5 @@
-Using programming to assist on my academimc ventures, which can vary greatly, apps for enhancing studying with mates, or progamming to help simulate and visualize more complex topics within the fields of maths and phsyics. 
+## About this profile
+### Using programming to assist on my academimc ventures, which can vary greatly, apps for enhancing studying with mates, or progamming to help simulate and visualize more complex topics within the fields of maths and phsyics. 
 
 ## Links
 

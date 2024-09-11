@@ -1,9 +1,13 @@
-## About this profile
-#### Using programming to assist on my academimc ventures, which can vary greatly, fx. apps for enhancing studying with mates, or lengthier projects to consolidate my understanding in programming and computer science as a whole. Could also be scripts to facilitate minor irratants in daily life, or progamming to help simulate and visualize more complex topics within the fields of maths and phsyics. 
+## Tern Folbaek
+Natural sciences is what got me hooked on software programming. The creation of software technology through the manipulation of the behavior of the real world which is still greatly unkown to us is what drove me to this field. Creating new technologies, optimizing current ones, problem solving is what makes me happy. 
 
-## Links
+My repos vary from practical apps which i thought to be useful, and repos which assist me in understanding complex topics in a more profound manner and which hopefully can help others in learning these topics in a more friendly approach. 
 
-#### I'm always happy to collaborate on projects, or just chat about computer science and sciences in general. 
-You can find me on [LinkedIn](https://www.linkedin.com/in/tern-folbaek-93a7b8224/), or shoot me an [email](mailto:tfolbaek@gmail.com).
+Apps:
 
+Quantum Computation:
 
+Machine Learning:
+
+### Contact:
+I am always happy to hear suggestions to curernt repos, as well as collaborating on other projects, you can reach out to me on my [Linkedin](https://www.linkedin.com/in/tern-folbaek-93a7b8224/)

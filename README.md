@@ -1,6 +1,6 @@
 ## Tern Folbaek
 
-Natural sciences are what got me hooked on software programming. The creation of software technology through manipulating the behavior of the real world, which is still largely unknown to us, is what drove me to this field. Creating new technologies, optimizing existing ones, and solving problems is what makes me happy.
+https://www.youtube.com/@smollpenguin
 
 My repositories range from practical apps that I found useful to projects that help me understand complex topics on a deeper level. These projects are designed to assist others in learning those topics more easily and intuitively.
 

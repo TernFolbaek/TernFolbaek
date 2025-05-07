@@ -1,12 +1,14 @@
 ## Tern Folbaek
 
-https://www.youtube.com/@smollpenguin
+#### Random YT videos: https://www.youtube.com/@smollpenguin
 
 My repositories range from practical apps that I found useful to projects that help me understand complex topics on a deeper level. These projects are designed to assist others in learning those topics more easily and intuitively.
 
 ### Apps:
 - [Anthra - Platform for students across universities and courses to connect with each other](https://github.com/TernFolbaek/anthra) 
   An educational platform designed to help students collaborate across institutions and disciplines.
+  - [FundingJourney - A one-stop-shop between investors and startusp](https://fundingjourney.dk) 
+  A platform where you as a startup can invite partners, create your startup profile and update it runningly. Apply to investors and keep track of the applications, if they've been delivered, engaged with, and replied to.
 
 ### Quantum Computation:
 - [Single Systems - Quantum information and mathematics within single systems](https://github.com/TernFolbaek/quantum-computing/tree/main/basics-of-quantum-information/single_systems)  

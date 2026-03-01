@@ -39,7 +39,7 @@ def repo_line(r):
 
 with open(OUT, "w", encoding="utf-8") as f:
     f.write(f"# {OWNER} Repositories\n\n")
-    f.write("_Auto-generated. Edit topics on repos to change categories._\n\n")
+    f.write("The below list is auto generated daily. It categorizes each repo based on the topics I set on the repo._\n\n")
 
     for topic in sorted(groups.keys(), key=lambda x: (x == "Uncategorized", x.lower())):
         f.write(f"## {topic}\n\n")

@@ -2,7 +2,7 @@
 
 #### Random YT videos: https://www.youtube.com/@smollpenguin
 
-My repositories range from practical apps that I found useful to projects that help me understand complex topics on a deeper level. These projects are designed to assist others in learning those topics more easily and intuitively.
+My repositories range from practical apps that I found useful to projects that help me understand complex topics on a deeper level. 
 
 ### Apps:
 - [Anthra - Platform for students across universities and courses to connect with each other](https://github.com/TernFolbaek/anthra) 

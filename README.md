@@ -1,36 +1,44 @@
-## Tern Folbaek
+# TernFolbaek Repositories
 
-#### Random YT videos: https://www.youtube.com/@smollpenguin
+The below list is auto generated daily. It categorizes each repo based on the topics I set on the repo._
 
-My repositories range from practical apps that I found useful to projects that help me understand complex topics on a deeper level. 
+## script
 
-### Apps:
-- [Anthra - Platform for students across universities and courses to connect with each other](https://github.com/TernFolbaek/anthra) 
-  An educational platform designed to help students collaborate across institutions and disciplines.
-- [FundingJourney - A one-stop-shop between investors and startusp](https://fundingjourney.dk) 
-A platform where you as a startup can invite partners, create your startup profile and update it runningly. Apply to investors and keep track of the applications, if they've been delivered, engaged with, and replied to.
+- [when-should-i-leave-home](https://github.com/TernFolbaek/when-should-i-leave-home)
 
-### Quantum Computation:
-- [Single Systems - Quantum information and mathematics within single systems](https://github.com/TernFolbaek/quantum-computing/tree/main/basics-of-quantum-information/single_systems)  
-  A deep dive into quantum information theory applied to individual quantum systems.
-- [Multiple Systems - Quantum information and mathematics within multiple systems](https://github.com/TernFolbaek/quantum-computing/tree/main/basics-of-quantum-information/multiple-systems) 
-  Exploration of the principles of quantum mechanics applied to systems with more than one quantum entity.
+## Uncategorized
 
-### Machine Learning:
-- [ML Regularization - Techniques within machine learning to reduce overfitting](https://github.com/TernFolbaek/machine-learning-regularization) 
-  A project focused on regularization techniques to enhance model performance and generalization.
-- [Linear & Logistic Regression](https://github.com/TernFolbaek/linear-and-logistic-regression) 
-  Implementing and understanding both linear and logistic regression for predictive modeling.
-- [Decision Trees](https://github.com/TernFolbaek/decision-trees) <sup>🔗</sup>  
-  An implementation of decision tree algorithms used for classification and regression tasks.
-- [Gradient Descent](https://github.com/TernFolbaek/gradient-descent) <sup>🔗</sup>  
-  Exploring the optimization technique essential for many machine learning models.
-- [Binary & Multiclass Classification](https://github.com/TernFolbaek/binary-multiclass-classification)
-  Classification models handling binary and multiclass data scenarios.
-- [Angry Chatbot - Language sensitization model to filter angry text from a database](https://github.com/TernFolbaek/angry-chatbot) 
-  Trained a custom language model to detect and respond to aggressive language inputs.
-- [Salary Prediction - Predicts salary based on parameters such as education, job role, and location](https://github.com/TernFolbaek/salary-prediction-ml) 
-  A machine learning model for salary prediction using multiple data features.
+- [advent-of-code-2024](https://github.com/TernFolbaek/advent-of-code-2024)
+- [angry-chatbot](https://github.com/TernFolbaek/angry-chatbot) — GPT that responds back aggressively 
+- [animation_engine](https://github.com/TernFolbaek/animation_engine)
+- [anthra](https://github.com/TernFolbaek/anthra)
+- [asp-net-mvc](https://github.com/TernFolbaek/asp-net-mvc)
+- [bamboohr-timetracking-automation](https://github.com/TernFolbaek/bamboohr-timetracking-automation) — Script to track 7.5 hours a day for a given month (excluding weekends)
+- [binary-multiclass-classification](https://github.com/TernFolbaek/binary-multiclass-classification) — Demonstrations of how to train a neural network for both binary- & multi-class classification "without" the use of libraries (TF || PyTorch)
+- [config-files](https://github.com/TernFolbaek/config-files)
+- [cs-189-289a-ml-berkley](https://github.com/TernFolbaek/cs-189-289a-ml-berkley) — Repo dedicated to "CS 189/289A Introduction to Machine Learning" and the code to go alongside the lectures which the course offers
+- [decision-trees](https://github.com/TernFolbaek/decision-trees) — Decision trees as a machine learning tool in its simplest, showing what occurs in the background of popular ML libraries.
+- [floor-price-optimization](https://github.com/TernFolbaek/floor-price-optimization)
+- [fourier-transform](https://github.com/TernFolbaek/fourier-transform)
+- [gradient-descent](https://github.com/TernFolbaek/gradient-descent) — repo dedicated to explaining in detail the process of gradient descent to minimize the cost function of a linear regression model
+- [libraryless-neural-network](https://github.com/TernFolbaek/libraryless-neural-network)
+- [linear-and-logistic-regression](https://github.com/TernFolbaek/linear-and-logistic-regression) — linear and logistic regression without the use of libraries.
+- [machine-learning-notebook](https://github.com/TernFolbaek/machine-learning-notebook)
+- [machine-learning-regularization](https://github.com/TernFolbaek/machine-learning-regularization)
+- [maths-notebook](https://github.com/TernFolbaek/maths-notebook)
+- [physics-notebook](https://github.com/TernFolbaek/physics-notebook)
+- [private-repo-automation](https://github.com/TernFolbaek/private-repo-automation) — Have many old repositories which you no longer feel as if reflects your current skillset? Don't wish to manually go through each repository one by one, then utilize this script to privatize all repos of your choice at once.
+- [public-3d-printer](https://github.com/TernFolbaek/public-3d-printer)
+- [quantum-computing](https://github.com/TernFolbaek/quantum-computing) — Maths and simple programming behind quantum computing
+- [rear-overtake-cyclist-ml](https://github.com/TernFolbaek/rear-overtake-cyclist-ml)
+- [rpi-grocery-item-detector](https://github.com/TernFolbaek/rpi-grocery-item-detector)
+- [salary-prediction-ml](https://github.com/TernFolbaek/salary-prediction-ml) — Simple salary prediction app with the usage of streamlist, a well-known python library for machine learning projects.
+- [sinogram](https://github.com/TernFolbaek/sinogram) — Repository to the experimentation of the conversion of an image to sinogram and the back projection
+- [softmax-activation](https://github.com/TernFolbaek/softmax-activation)
+- [stubby](https://github.com/TernFolbaek/stubby)
+- [swe-notebook](https://github.com/TernFolbaek/swe-notebook)
+- [TernFolbaek](https://github.com/TernFolbaek/TernFolbaek)
+- [todo-c-sharp-familiarization](https://github.com/TernFolbaek/todo-c-sharp-familiarization)
+- [uni-courses-fetching](https://github.com/TernFolbaek/uni-courses-fetching)
+- [xgboost](https://github.com/TernFolbaek/xgboost)
 
-### Contact:
-I’m always happy to receive suggestions for my current repositories or to collaborate on new projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tern-folbaek-93a7b8224/)

@@ -20,7 +20,6 @@ The below list is auto generated daily. It categorizes each repo based on the to
 - [decision-trees](https://github.com/TernFolbaek/decision-trees) — Decision trees as a machine learning tool in its simplest, showing what occurs in the background of popular ML libraries.
 - [floor-price-optimization](https://github.com/TernFolbaek/floor-price-optimization)
 - [fourier-transform](https://github.com/TernFolbaek/fourier-transform)
-- [global-notes](https://github.com/TernFolbaek/global-notes)
 - [gradient-descent](https://github.com/TernFolbaek/gradient-descent) — repo dedicated to explaining in detail the process of gradient descent to minimize the cost function of a linear regression model
 - [libraryless-neural-network](https://github.com/TernFolbaek/libraryless-neural-network)
 - [linear-and-logistic-regression](https://github.com/TernFolbaek/linear-and-logistic-regression) — linear and logistic regression without the use of libraries.
